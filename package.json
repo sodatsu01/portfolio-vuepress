@@ -9,6 +9,8 @@
   },
   "devDependencies": {},
   "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src --dest dist",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "sodatsu01",
