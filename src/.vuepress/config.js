@@ -3,23 +3,18 @@ module.exports = {
   head: [
     ['link', {href: '/css/style.css', rel: 'stylesheet'}]
   ],
-  // Title of your website
-  title: "sodatsu's portfolio",
 
-  // Description of your website
+  title: "sodatsu's portfolio",
   description: "Welcome to my portfolio site",
 
-  // Language of your website
   locales: {
     '/': {
       lang: 'ja-JP',
     },
   },
 
-  // Theme to use
   theme: '',
 
-  // Theme config
   themeConfig: {
     lang: 'ja-JP',
     search: false,
