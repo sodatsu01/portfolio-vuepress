@@ -1,0 +1,16 @@
+{
+  "name": "sodatsu-portfolio",
+  "version": "1.0.0",
+  "description": "sodatsu's portfolio site",
+  "main": "index.js",
+  "dependencies": {
+    "vuepress": "^1.2.0",
+    "vuepress-theme-meteorlxy": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sodatsu01",
+  "license": "ISC"
+}
