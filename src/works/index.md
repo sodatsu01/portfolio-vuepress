@@ -5,11 +5,11 @@ header-title: true
 ## 個人開発したアプリ、実務経験の紹介
 ### 個人開発
 #### [Trello-Clone(WIP)](https://github.com/sodatsu01/trello-clone)
-![imagegif](./out.gif)
+![imagegif](/img/out.gif)
 - 概要: 某タスク管理ツールのコピー。ドラッグアンドドロップ部分未実装
 - 使用(学習)した技術: ReactJS, React Hooks,  reach/router, json-server, Sass 
 #### [ポモドーロタイマー](https://github.com/sodatsu01/pomodoro-timer)
-![imagegif](./pomodoro.gif)
+![imagegif](/img/pomodoro.gif)
 - 概要: `WORKING TIME`と`BREAKING TIME`を繰り返すカウントダウンタイマー(上動画では15秒と3秒)
 - 使用(学習)した技術: ReactJS, Electron, Webpack
 #### [Atcoder](https://github.com/sodatsu01/atcoder-problems)
