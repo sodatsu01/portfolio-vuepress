@@ -4,9 +4,9 @@ header-title: true
 ---
 ## 個人開発したアプリ、実務経験の紹介
 ### 個人開発
-#### [Trello-Clone(WIP)](https://github.com/sodatsu01/trello-clone)
+#### [Trello-Clone](https://github.com/sodatsu01/trello-clone)
 ![imagegif](/img/trello.gif)
-- 概要: 某タスク管理ツールのコピー。ドラッグアンドドロップ部分未実装
+- 概要: 某タスク管理ツールのコピー。
 - 使用(学習)した技術: ReactJS, React Hooks,  reach/router, json-server, Sass 
 #### [ポモドーロタイマー](https://github.com/sodatsu01/pomodoro-timer)
 ![imagegif](/img/pomodoro.gif)
